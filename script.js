@@ -31,3 +31,9 @@ var swiper = new Swiper(".slide-container", {
     },
   },
 });
+
+    // Toggle the cart menu on button click
+    function toggleCartMenu() {
+      const cartMenu = document.querySelector('.cart-menu');
+      cartMenu.classList.toggle('show');
+    }
