@@ -1,34 +1,33 @@
-   /* Add some basic styles to the page */
-    body {
+body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-    }
+}
 
-    .container {
+.container {
       max-width: 1200px;
       margin: 0 auto;
       padding: 20px;
-    }
+}
 
-    .logo {
+.logo {
       float: left;
       margin-right: 20px;
-    }
+}
 
-    .menu {
+.menu {
       list-style-type: none;
       padding: 0;
       margin: 0;
       float: left;
-    }
+}
 
-    .menu li {
+.menu li {
       display: inline-block;
       margin-right: 20px;
-    }
+}
 
-    .cart-menu-btn {
+.cart-menu-btn {
       float: right;
       background-color: #4CAF50;
       color: white;
@@ -36,9 +35,9 @@
       border: none;
       border-radius: 5px;
       cursor: pointer;
-    }
+}
 
-    .cart-menu {
+.cart-menu {
       display: none;
       position: absolute;
       top: 60px;
@@ -47,46 +46,8 @@
       border: 1px solid #ddd;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
+}
 
-    .cart-menu.show {
+.cart-menu.show {
       display: block;
-    }
-.menu{
-width:80%;
-height:150px;
-margin:0px auto;
-}
-.menu ul{
-padding:0px;
-}
-.menu li{ 
-float:left;
-background-color:black;
-color:white;
-width:160px;
-list-style:none;
-height:50px;
-line-height:50px;
-text-align:center;
-opacity:0.6;
-font-size:25px;
-}
-.menu ul li ul{ 
-display:none;
-}
-.menu ul li:hover> ul{ 
-display:block;
-}
-.menu ul li:hover{ 
-background-color:#32CD32;
-opacity:0.9;
-}
-.menu ul li ul li{ 
-position:relative;
-}
-.menu ul li ul li ul{ 
-position:absolute;
-left:160px;
-top:0px;
 }
