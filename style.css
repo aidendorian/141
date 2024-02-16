@@ -16,18 +16,6 @@
       margin-right: 20px;
     }
 
-    .menu {
-      list-style-type: none;
-      padding: 0;
-      margin: 0;
-      float: left;
-    }
-
-    .menu li {
-      display: inline-block;
-      margin-right: 20px;
-    }
-
     .cart-menu-btn {
       float: right;
       background-color: #4CAF50;
