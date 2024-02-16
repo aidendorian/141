@@ -40,15 +40,15 @@
     .cart-menu.show {
       display: block;
     }
-.menudropdown1{
+.menu{
 width:80%;
 height:150px;
 margin:0px auto;
 }
-.menudropdown1 ul{
+.menu ul{
 padding:0px;
 }
-.menudropdown1 ul li{ 
+.menu li{ 
 float:left;
 background-color:black;
 color:white;
@@ -60,20 +60,20 @@ text-align:center;
 opacity:0.6;
 font-size:25px;
 }
-.menudropdown1 ul li ul{ 
+.menu ul li ul{ 
 display:none;
 }
-.menudropdown1 ul li:hover> ul{ 
+.menu ul li:hover> ul{ 
 display:block;
 }
-.menudropdown1 ul li:hover{ 
+.menu ul li:hover{ 
 background-color:#32CD32;
 opacity:0.9;
 }
-.menudropdown1 ul li ul li{ 
+.menu ul li ul li{ 
 position:relative;
 }
-.menudropdown1 ul li ul li ul{ 
+.menu ul li ul li ul{ 
 position:absolute;
 left:160px;
 top:0px;
