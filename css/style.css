@@ -184,7 +184,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	display:inline-block;
 	color:#212121;
 	font-family: 'Ubuntu', sans-serif;
-/*-- w3layouts --*/
 	margin-right:2em;
 }
 .w3ls_logo_products_left1 ul.phone_email li a{
@@ -284,7 +283,6 @@ ul.dropdown-menu.drp-mnu li a i {
 }
 .w3ls_vegetables ul li a {
     color: #212121;
-/*-- w3layouts --*/
     display: block;
     text-decoration: none;
 }
@@ -334,7 +332,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	line-height:2em;
 }
 .w3l_banner_nav_right_banner2 h3 i{
-/*-- agileits --*/
 	display:block;
 	font-weight:600;
 	line-height:2em;
@@ -356,7 +353,6 @@ ul.dropdown-menu.drp-mnu li a i {
     text-align: center;
     margin-left:59em;
 }
-/* Saqui */
 .button--saqui {
 	overflow: hidden;
 	-webkit-transition: background-color 0.3s ease-in, color 0.3s ease-in;
@@ -402,8 +398,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	-webkit-transform: rotate3d(0, 0, 1, 0deg);
 	transform: rotate3d(0, 0, 1, 0deg);
 }
-/*-- //banner --*/
-/*-- banner_bottom --*/
 .banner_bottom,.top-brands,.fresh-vegetables,.w3l_banner_nav_right_banner3_btm,.testimonials,.team,.newsletter-top-serv-btm,.w3ls_w3l_banner_nav_right_grid_sub{
 	padding:5em 0 !important;
 }
@@ -475,8 +469,6 @@ ul.dropdown-menu.drp-mnu li a i {
     line-height: 1.5em;
     color: #FA1818;
 }
-/*-- //banner_bottom --*/
-/*-- top-brands --*/
 .tag {
     position: absolute;
     top: -1%;
@@ -539,7 +531,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	text-decoration:line-through;
 	padding-left:1em;
 }
-/*-- cart --*/
 .product_list_header {
     float: left;
     margin-left: 7em;
@@ -639,7 +630,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	overflow: hidden;
 	z-index: 0;
 }
-/* Shine */
 .hover14 figure {
 	position: relative;
 }
@@ -671,8 +661,6 @@ ul.dropdown-menu.drp-mnu li a i {
 		left: 125%;
 	}
 }
-/*-- //top-brands --*/
-/*-- top-products --*/
 .w3l_fresh_vegetables_grids{
 	margin:3em 0 0;
 	padding:1em 0em 1em 1em;
@@ -819,8 +807,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	border: 1px solid #84C639;
 	color:#fff;
 }
-/*-- //newsletter --*/
-/*-- footer --*/
 .footer{
 	padding:4em 0;
 	background:#212121;
@@ -940,8 +926,6 @@ ul.dropdown-menu.drp-mnu li a i {
 .wthree_footer_copy p a:hover{
 	color:#FA1818;
 }
-/*-- //footer --*/
-/*-- to-top --*/
 #toTop {
 	display: none;
 	text-decoration: none;
@@ -966,8 +950,6 @@ ul.dropdown-menu.drp-mnu li a i {
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
 }
-/*-- //to-top --*/
-/*-- products-breadcrumb --*/
 .products-breadcrumb{
 	padding:1em 0;
 	background:#84C639;
@@ -991,8 +973,6 @@ ul.dropdown-menu.drp-mnu li a i {
     padding-right: 1em;
 	color:#FA1818;
 }
-/*-- //products-breadcrumb --*/
-/*-- products --*/
 .w3l_banner_nav_right_banner3,.w3l_banner_nav_right_banner4,.w3l_banner_nav_right_banner5,.w3l_banner_nav_right_banner6,.w3l_banner_nav_right_banner7,.w3l_banner_nav_right_banner8,.w3l_banner_nav_right_banner9,.w3l_banner_nav_right_banner10{
 	min-height:300px;
 	padding-top: 7em;
@@ -1264,13 +1244,9 @@ ul.dropdown-menu.drp-mnu li a i {
     text-align: center;
     line-height: 1.8em;
 }
-/*-- //products --*/
-/*-- vegetables --*/
 .w3l_fruit{
 	margin-bottom:2em !important;
 }
-/*-- //vegetables --*/
-/*-- kitchen --*/
 .w3ls_w3l_banner_nav_right_grid_head h6{
 	font-size:1.5em;
 	text-transform:uppercase;
@@ -1302,8 +1278,6 @@ ul.dropdown-menu.drp-mnu li a i {
 .w3ls_w3l_banner_nav_right_grid_head_grid ul li a:hover{
 	color:#212121;
 }
-/*-- //kitchen --*/
-/*--Typography--*/
 .well {
     font-weight: 300;
     font-size: 14px;
@@ -1546,8 +1520,6 @@ h2.typoh2{
 .typo,.privacy,.faq,.services,.events,.mail,.agileinfo_single,.w3_login{
     padding: 5em;
 }
-/*--//Typography --*/
-/*-- pet-food --*/
 .w3l_banner_nav_right_banner9 h4{
 	font-size: 2em;
     color: #212121;
@@ -1573,8 +1545,6 @@ h2.typoh2{
 .w3l_banner_nav_right_banner_pet a:hover,.w3ls_service_grids1_right a:hover{
 	background:#84C639;
 }
-/*-- //pet-food --*/
-/*-- privacy --*/
 .privacy1-grid,.privacy2-grid{
 	margin:3em 0 0;
 }
@@ -1653,8 +1623,6 @@ h2.typoh2{
 .privacy2-grid1-sub {
     margin: 2em 0 0;
 }
-/*-- //privacy --*/
-/*-- faq --*/
 .pa_italic i {
     left: -1em;
 	font-size: 11px;
@@ -1708,8 +1676,6 @@ a.pa_italic:focus {
 .w3l_panel_group_faq{
 	margin:3em 0 0;
 }
-/*-- //faq --*/
-/*-- services --*/
 .w3ls_service_grid_left h4{
 	text-transform:uppercase;
 	font-size:1.5em;
@@ -1819,8 +1785,6 @@ p.animi{
 .agile_about_grids {
     margin: 3em 0 0;
 }
-/*-- //services --*/
-/*-- team --*/
 .team{
 	background:#f5f5f5;
 }
@@ -1883,7 +1847,6 @@ p.animi{
     margin: .5em 0 0;
     color: #FA1818;
 }
-/*-- wmuslider --*/
 .wmuSlider {
 	position: relative;
 	overflow: hidden;
@@ -1894,7 +1857,6 @@ p.animi{
 	height: auto;
 	display:block;--*/
 }
-/* Default Skin */
 .wmuSliderPagination {
 	z-index: 2;
     position: absolute;
@@ -1929,16 +1891,12 @@ ul.wmuSliderPagination {
 	-o-box-shadow: 0px 0px 10px #84C639;
 	-ms-box-shadow: 0px 0px 10px #84C639;
 }
-/* Default Skin */
 .wmuGallery .wmuGalleryImage {
 	margin-bottom: 10px;
 }
 .banner-wrap{
 	padding:0 0 4em;
 }
-/*-- //wmuslider --*/
-/*-- //team --*/
-/*-- events --*/
 .w3agile_event_grid_left i{
 	font-size: 2em;
     color: #FA1818;
@@ -2024,8 +1982,6 @@ ul.wmuSliderPagination {
 .events-bottom {
     padding: 5em 0 0;
 }
-/*-- //events --*/
-/*-- mail --*/
 .agileinfo_mail_grid_left ul li{
 	display:inline-block;
 	font-size:1em;
@@ -2099,8 +2055,6 @@ ul.wmuSliderPagination {
 	min-height:400px;
 	margin-bottom:-6px;
 }
-/*-- //mail --*/
-/*-- single --*/
 .agileinfo_single h5{
 	font-size: 1.8em;
     color: #212121;
@@ -2112,7 +2066,6 @@ ul.wmuSliderPagination {
     padding: 2em;
     box-shadow: 0px 0px 5px #E1E1E1;
 }
-/*-- Ratings --*/
 .rating1 {
     direction:ltr;
 }
@@ -2151,7 +2104,6 @@ ul.wmuSliderPagination {
 .starRating:not(:hover) > :checked ~ label:before{
   opacity : 1;
 }
-/*-- //Ratings --*/
 .agileinfo_single_right {
     padding-left: 5em;
 }
@@ -2181,9 +2133,6 @@ ul.wmuSliderPagination {
 	background:#f5f5f5;
 	padding:5em 0 !important;
 }
-/*-- //single --*/
-/*-- login --*/
-/* Pen Title */
 .pen-title {
   padding: 50px 0;
   text-align: center;
@@ -2205,8 +2154,6 @@ ul.wmuSliderPagination {
   font-weight: 600;
   text-decoration: none;
 }
-
-/* Form Module */
 .form-module {
 	position: relative;
     background: #ffffff;
